@@ -162,6 +162,7 @@ const posts = [
     date: "2025-09-19",
     image: "image.png",
     category: "JavaScript",
-  }
+  },
 ];
+
 

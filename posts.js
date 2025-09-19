@@ -160,10 +160,11 @@ const posts = [
     `,
     author: "أيمن المليكي",
     date: "2025-09-19",
-    image: "https://cdn.arabsstock.com/uploads/images/110516/fatigue-and-stress-while-reviewing-preview-110516.jpg",
+    image: "https://i.pinimg.com/1200x/66/a5/c5/66a5c5b453e09b77da2907c6081819b6.jpg",
     category: "JavaScript",
   },
 ];
+
 
 
 

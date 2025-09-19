@@ -160,10 +160,11 @@ const posts = [
     `,
     author: "أيمن المليكي",
     date: "2025-09-19",
-    image: "https://i.pinimg.com/1200x/66/a5/c5/66a5c5b453e09b77da2907c6081819b6.jpg",
+    image: "https://i.pinimg.com/1200x/46/12/1d/46121d4c84b385c038cf4adc1f35ce16.jpg",
     category: "JavaScript",
   },
 ];
+
 
 
 
